@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "P26J6XCT3X.com.formssi.functionTest.Extension",
+                "paths": [ "/api" ]
+            }
+        ]
+    }
+}
